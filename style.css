@@ -45,7 +45,7 @@ body {
   color: transparent;
   font-size: 25px;
   font-weight: 600;
-  background-image: url('/static/LogoTurma2.png');
+  background-image: url('LogoTurma2.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
